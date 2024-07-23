@@ -39,7 +39,7 @@
   },
   "devDependencies": {
     "@blueprintjs/core": "^3.23.0",
-    "electron": "^7.1.8",
+    "electron": "^22.3.25",
     "electron-packager": "^14.2.0"
   },
   "resolutions": {
